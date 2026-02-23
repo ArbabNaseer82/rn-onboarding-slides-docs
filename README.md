@@ -6,9 +6,7 @@ Built with `react-native-reanimated` for buttery-smooth 60fps animations running
 
 ---
 
-<p align="center">
 ![Adobe Express - Screen Recording 2026-02-22 at 8 32 01 PM](https://github.com/user-attachments/assets/b7f0dee1-163d-4fd5-978c-ea507902f390)
-</p>
 
 ---
 
